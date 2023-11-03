@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/yongxiangtang.github.io/static/js/main.731d51b9.chunk.js",
-    "main.js.map": "/yongxiangtang.github.io/static/js/main.731d51b9.chunk.js.map",
-    "runtime-main.js": "/yongxiangtang.github.io/static/js/runtime-main.cace1f05.js",
-    "runtime-main.js.map": "/yongxiangtang.github.io/static/js/runtime-main.cace1f05.js.map",
-    "static/js/2.e1b87822.chunk.js": "/yongxiangtang.github.io/static/js/2.e1b87822.chunk.js",
-    "static/js/2.e1b87822.chunk.js.map": "/yongxiangtang.github.io/static/js/2.e1b87822.chunk.js.map",
-    "index.html": "/yongxiangtang.github.io/index.html",
-    "precache-manifest.d357f85254d02c8f13d7dee3b5e00709.js": "/yongxiangtang.github.io/precache-manifest.d357f85254d02c8f13d7dee3b5e00709.js",
-    "service-worker.js": "/yongxiangtang.github.io/service-worker.js",
-    "static/js/2.e1b87822.chunk.js.LICENSE.txt": "/yongxiangtang.github.io/static/js/2.e1b87822.chunk.js.LICENSE.txt"
+    "main.js": "/static/js/main.1f512351.chunk.js",
+    "main.js.map": "/static/js/main.1f512351.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bb8fda8c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bb8fda8c.js.map",
+    "static/js/2.39860b8b.chunk.js": "/static/js/2.39860b8b.chunk.js",
+    "static/js/2.39860b8b.chunk.js.map": "/static/js/2.39860b8b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.cd10e4c3103849e9ea78f2d6bbb0fc5d.js": "/precache-manifest.cd10e4c3103849e9ea78f2d6bbb0fc5d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.39860b8b.chunk.js.LICENSE.txt": "/static/js/2.39860b8b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.cace1f05.js",
-    "static/js/2.e1b87822.chunk.js",
-    "static/js/main.731d51b9.chunk.js"
+    "static/js/runtime-main.bb8fda8c.js",
+    "static/js/2.39860b8b.chunk.js",
+    "static/js/main.1f512351.chunk.js"
   ]
 }
